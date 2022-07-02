@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CamEverett96/.github.io/react-gh-pages/static/css/main.e6c13ad2.css",
+    "main.js": "/CamEverett96/.github.io/react-gh-pages/static/js/main.c4a9d100.js",
+    "static/js/787.57522397.chunk.js": "/CamEverett96/.github.io/react-gh-pages/static/js/787.57522397.chunk.js",
+    "index.html": "/CamEverett96/.github.io/react-gh-pages/index.html",
+    "main.e6c13ad2.css.map": "/CamEverett96/.github.io/react-gh-pages/static/css/main.e6c13ad2.css.map",
+    "main.c4a9d100.js.map": "/CamEverett96/.github.io/react-gh-pages/static/js/main.c4a9d100.js.map",
+    "787.57522397.chunk.js.map": "/CamEverett96/.github.io/react-gh-pages/static/js/787.57522397.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c4a9d100.js"
+  ]
+}
