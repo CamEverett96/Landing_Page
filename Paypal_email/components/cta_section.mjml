@@ -1,0 +1,11 @@
+<mj-section css-class="cta_section">
+  <mj-column>
+    <mj-text align="center" line-height="1.3"; font-family="'pp-sans-big-light',Tahoma,Arial,sans-serif" font-weight="300" font-size="40px" color="#2c2e2f" margin="0px">
+      A powerful point of sale system that’s easy to set up
+    </mj-text>
+    <mj-text padding="20px 20px 0px 20px" line-height= "1.5" align="center" padding="0px" font-family="'pp-sans-small-regular',Tahoma,Arial,sans-serif" font-weight="normal" font-size="16px" color="#6c7378" margin="0px">
+      PayPal Zettle is our complete point of sale (POS) system to help grow your business in store. It completes sales quickly and securely via card, mobile payments, PayPal and Venmo. The POS app offers the power and security you expect from PayPal, paired with an in-store card reader.
+    </mj-text>
+    <mj-button background-color="#142c8e" width="250px" font-family="'pp-sans-big-regular',Tahoma,Arial,sans-serif" border-radius="50px" font-size="14px" href="#">Order Your Card Reader</mj-button>
+  </mj-column>
+</mj-section>

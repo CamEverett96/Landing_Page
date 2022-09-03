@@ -1,0 +1,3 @@
+  <mj-section  padding="0px" css-class="hero_img">
+        <mj-image padding="0px"  href="https://www.paypal.com/us/business/pos?utm_source=online&utm_medium=email&utm_campaign=email3_zettle_xsell" width="" align="middle" src="/assets/paypal_img.png" alt="paypal hero" >
+    </mj-section>

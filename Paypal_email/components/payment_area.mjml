@@ -1,0 +1,14 @@
+     <mj-section css-class="payments">
+        <mj-column>
+        <mj-text align="center"
+    font-family= "pp-sans-big-light,Tahoma,Arial,sans-serif"
+    font-weight= "normal"
+    font-size="20px"
+    color= "#2c2e2f"
+        margin="0px" >
+      PayPal Zettle Accepts 
+       </mj-text>
+       </mj-column>
+        <mj-image css-class="payments_img" padding="0"  href="https://www.paypal.com/us/business/pos?utm_source=online&utm_medium=email&utm_campaign=email3_zettle_xsell" width="" align="middle" src="/assets/payments.png" alt="paypal hero" >
+
+     </mj-section>

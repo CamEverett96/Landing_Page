@@ -1,0 +1,5 @@
+  <mj-section css-class="header">
+      <mj-column>
+      <mj-image href="https://www.paypal.com/us/business?utm_source=epsilon&utm_campaign=T_EP_GLOBAL_202201_206166_B2B_X_Sell_trigger_US_POS_Challenger_EM3_US_en_US&utm_medium=email" width="121px" align="middle" src="/assets/paypal.png" alt="paypal logo" >
+      </mj-column>
+    </mj-section>

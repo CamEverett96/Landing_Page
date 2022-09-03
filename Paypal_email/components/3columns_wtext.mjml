@@ -1,0 +1,29 @@
+<mj-wrapper css-class="three_columns">
+<mj-section>
+  <mj-column>
+    <mj-text font-weight="normal" font-size="26px" align="center" font-family="'pp-sans-big-light',Tahoma,Arial,sans-serif" margin="0px" color="#2c2e2f;">Connect your online and
+      ‌in-store business seamlessly</mj-text>
+    <mj-text color="#6c7378" line-height="1.5" align="center" font-size="16px">PayPal Zettle integrates with ecommerce solutions, so you can sync
+      ‌in-store and online operations. This makes selling in store easy, with access to inventory management, reports, and insights all in one place..</mj-text>
+  </mj-column>
+</mj-section>
+
+
+
+<mj-section background-color="">
+  <mj-column>
+    <mj-image width="180px" src="/assets/bigcommerce.png"></mj-image>
+  </mj-column>
+  <mj-column>
+    <mj-image width="180px" src="/assets/woocommerce.png"></mj-image>
+  </mj-column>
+  <mj-column>
+    <mj-image width="180px" src="/assets/adobe.png"></mj-image>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-button background-color="#142c8e" width="250px" font-weight=" bold" font-family="'pp-sans-big-regular',Tahoma,Arial,sans-serif" border-radius="50px" font-size="18px" align="center" href="#">Get Started</mj-button>
+  </mj-column>
+</mj-section>
+<mj-wrapper>

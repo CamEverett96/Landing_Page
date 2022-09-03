@@ -1,0 +1,22 @@
+  <mj-section css-class="two_columns" background-color="white" display="flex" align-items"center">
+    <mj-raw>
+      <!-- Left image -->
+    </mj-raw>
+    <mj-column>
+      <mj-image width="250px" valign="middle" src="/assets/card_reader.png"></mj-image>
+    </mj-column>
+    <mj-raw>
+      <!-- right paragraph -->
+    </mj-raw>
+    <mj-column>
+      <mj-text font-weight="normal" font-size="20px" align="center" font-family="pp-sans-small-regular,Tahoma,Arial,sans-serif" color="#2c2e2f">Save on your first PayPal Zettle card reader</mj-text>
+      <mj-text  line-height= "1.5"
+    color= "#6c7378" font-size="16px">All readers come with a
+        ‌POS ‌app and you’ll only pay
+        ‌a per-transaction charge.
+        ‌There are no monthly fees, cancellation fees, or processing minimums. Fees are subject
+        ‌to change.</mj-text>
+     
+    </mj-column>
+
+  </mj-section>

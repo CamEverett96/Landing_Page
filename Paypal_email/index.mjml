@@ -1,0 +1,75 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+       
+
+      }
+  
+    </mj-style>
+    <mj-style inline="inline">
+      .header {
+        background-color: #fff;
+      }
+    .two_columns{
+          padding: 0px 25px 0px 25px;
+    }
+      .section-padding {
+        padding-left: 30px;
+        padding-right: 30px;
+      }
+      .sep{
+        background-color: #ffffff;
+        padding:0px;
+      }
+  
+      .icons-size{
+       max-width:180px;
+       padding-bottom:10px ;
+      
+      }
+      .hero_img{
+        padding:0px;
+      }
+      .footer_links{
+        max-width: 600px;
+        font-family: 'pp-sans-big-regular',Tahoma,Arial,sans-serif;
+    color: #000000;
+    word-break: keep-all;
+    white-space: nowrap;
+    padding:0 0px;
+    margin: 0px 5px;
+  
+      }
+      .payments{
+           background-color: rgb(245, 247, 251);
+      }
+      .cta_section{
+        background-color: rgb(255, 255, 255);
+        max-width: 560px;
+      }
+      .three_columns{
+        background-color: rgb(255, 255, 255);
+        padding-bottom: 0px;
+      }
+   .footer{
+     background-color: #f5f7fa;
+   }
+
+    </mj-style>
+  </mj-head>
+  <mj-body  background-color="#f2f2f2">
+    <mj-raw>
+    </mj-raw>
+    <mj-include path="./components/header.mjml" />
+    <mj-include path="./components/hero_img.mjml" />
+    <mj-include path="./components/cta_section.mjml" />
+    <mj-include path="./components/payment_area.mjml" />
+    <mj-include path="./components/2columns.mjml" />
+    <mj-include path="./components/2columnsrev.mjml" />
+    <mj-include path="./components/sep.mjml" />
+    <mj-include path="./components/3columns_wtext.mjml" />
+    <mj-include path="./components/footer.mjml" />
+  </mj-body>
+</mjml>

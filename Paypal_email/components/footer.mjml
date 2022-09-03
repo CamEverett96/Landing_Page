@@ -1,0 +1,83 @@
+  <mj-wrapper css-class="footer" padding="25px 10px">
+    <mj-section css-class="icon-section" padding="0">
+      <mj-group css-class="icons-size" padding="0">
+        <mj-column padding="0">
+          <mj-image width="40px" padding="0 2px" src="/assets/facebook_icon.png"></mj-image>
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image width="40px" padding="0 2px" src="/assets/twitter_icon.png"></mj-image>
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image width="40px" padding="0 2px" src="/assets/linkedin_icon.png"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+     <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="footer_appstore">
+      <mj-group>
+        <mj-column padding="0">
+          <mj-image width="150px" height="50px" align="right" padding="0 5px" src="/assets/appstore.png"></mj-image>
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image width="150px" height="50px" align="left" padding="0 5px" src="/assets/googleplay.png"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+       <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="footer_links" >
+      <mj-column>
+        <mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/gettings-started-onboard" padding="0 10px" align="left" font-weight="bold" font-size="15px">Help</mj-navbar-link>
+          <mj-navbar-link href="/gettings-started-onboard" padding="0 10px" align="left" font-weight="bold" font-size="15px">Partners</mj-navbar-link>
+          <mj-navbar-link href="/gettings-started-onboard" padding="0 10px" align="left" font-weight="bold" font-size="15px">Logos</mj-navbar-link>
+          <mj-navbar-link href="/gettings-started-onboard" padding="0 10px" align="left" font-weight="bold" font-size="15px">Privacy/Cookies</mj-navbar-link>
+          <mj-navbar-link href="/gettings-started-onboard" padding="0 10px" align="left" font-weight="bold" font-size="15px">Resources</mj-navbar-link>
+       
+
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+     <mj-section padding="0">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="footer_bottom">
+      <mj-column>
+        <mj-text> *Offer valid  for one (1)  Zettle Reader per new business user. Additional card reader price $79. Subject to availability. Zettle Dock and Reader are sold separately. Price includes a USB cable for charging. The cost for a wall plug is not included. Wall plugs are not currently offered for sale by Zettle. Offer is subject to change at any time without notice and PayPal Zettle may suspend the Offer for any reason.
+          Google Play and the Google Play logo are trademarks of Google Inc.
+          Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries.
+           </mj-text>
+        
+            <mj-text> 
+          This email was sent to camtyrese96@gmail.com because your email preferences are set to receive "News and Promotions". Click here to  Unsubscribe.
+           </mj-text>
+       
+            <mj-text> 
+          Please do not reply to this email. We are unable to respond to inquiries sent to this address. For immediate answers to your questions, visit our Help Center by clicking "Help" located on any PayPal page or email.
+           </mj-text>
+          
+            <mj-text> 
+          PayPal, Inc. is Licensed as a Money Transmitter by the New York State Department of Financial Services. PayPal, Inc., NMLS #910457, License #FT3345, Massachusetts Foreign Transmittal License. PayPal, Inc., Transmit Money By Check, Draft or Money Order By The Department of Banking, Commonwealth of Pennsylvania. PayPal, Inc. Rhode Island Licensed Money Transferor. PAYPAL, INC., NMLS #910457, LICENSE #34967, IS LICENSED BY THE GEORGIA DEPARTMENT OF BANKING AND FINANCE. PayPal, Inc. is Licensed by the State of Connecticut Department of Banking to perform Money Transmission, NMLS #910457, License Number MT-910457.
+           </mj-text>
+         
+            <mj-text> 
+          Copyright © 2022 PayPal, Inc. All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 95131.
+        </mj-text>
+        <mj-text>
+        65844 185105
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+    </mj-column>
+    </mj-section>
+  </mj-wrapper>

@@ -1,0 +1,22 @@
+  <mj-section css-class="two_columns" background-color="white">
+    <mj-raw>
+      <!-- Left paragraph -->
+    </mj-raw>
+    <mj-column>
+
+      <mj-text font-weight="normal" font-size="20px" align="left" font-family="pp-sans-small-regular,Tahoma,Arial,sans-serif" color="#2c2e2f;">Scale your POS system </mj-text>
+      <mj-text line-height="1.5" color="#6c7378" font-size="16px" font-size="16px">As your business expands, it’s
+        ‌easy to create a space-saving
+        ‌POS system with a cash drawer, printer, and tablet stand.</mj-text>
+      <mj-text color="#0070ba" font-family="'pp-sans-small-regular',Tahoma,Arial,sans-serif" font-size="16px"> Learn more </mj-text>
+
+
+    </mj-column>
+    <mj-raw>
+      <!-- right image -->
+    </mj-raw>
+    <mj-column>
+      <mj-image padding-bottom="0" width="250px" height="250px" valign="middle" src="/assets/pos.png"></mj-image>
+    </mj-column>
+
+  </mj-section>
